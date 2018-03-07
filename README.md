@@ -6,7 +6,7 @@ List of integers for the tree. Element to be searched.
 
 Output Format
 
-You should print the message "1" if the element is present in the given tree, otherwise print "0".
+You should print the message "true" if the element is present in the given tree, otherwise print "false".
 
 
 Sample Test Cases:
@@ -20,10 +20,10 @@ Input #1:
 
 Output #1:
 
-1
+true
 
 Explanation:
-The element 30 is present in the given tree, so print 1.
+The element 30 is present in the given tree, so print true.
 
 
 
@@ -35,8 +35,8 @@ Input #2:
 
 Output #2:
 
-0
+false
 
 
 Explanation:
-The element 79 is not present in the given tree, so print 0.
+The element 79 is not present in the given tree, so print false.
