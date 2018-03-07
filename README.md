@@ -1,4 +1,4 @@
-For this problem, you will receive a set of integers and you must build the equivalent Binary Search Tree, then you need to search for an especific element. If the element is found, print 1. Otherwise print 0.
+For this problem, you will receive a set of integers and you must build the equivalent Binary Search Tree, then you need to search for an especific element. If the element is found, print true. Otherwise print false.
 
 Input Format
 
